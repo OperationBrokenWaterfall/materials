@@ -9,11 +9,10 @@ Quest, at its completion, will have a library of images taken from Calvin and a 
 
 ## Project Management Records — 
 
-This section links your team’s task status and work loads (i.e., your Trello board and GitHub repos).
+ This section links your team’s task status and work loads (i.e., your Trello board and GitHub repos).
 
-Github: https://github.com/OperationBrokenWaterfall
-
-Trello: https://trello.com/b/MfrAjiAv/cs262b-operation-broken-waterfall
+ - Github: https://github.com/OperationBrokenWaterfall
+ - Trello: https://trello.com/b/MfrAjiAv/cs262b-operation-broken-waterfall
 
 ## N+1 Architectural Views — 
 This section provides a variety of views of the system architecture, based on what the Unified Process calls a Software Architecture Document (SAD). This semester, we'll set N=4 by including the following views:
@@ -26,7 +25,7 @@ Deployment View
 Each section should summarizes the key architectural decisions documented in that view and explain why they were made.
 
 ## Supplemental Specifications — 
-  Non Functional Requirements:
+  URPS Non Functional Requirements:
   - The application should be built using Android Studio.
   - The application should be implemented in Java.
   - The application should implement a relational database.
