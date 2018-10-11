@@ -27,15 +27,14 @@ Each section should summarizes the key architectural decisions documented in tha
 
 ## Supplemental Specifications — 
   Non Functional Requirements:
-  
-    1. The application should be built using Android Studio.
-    2. The application should be implemented in Java.
-    3. The application should implement a relational database.
-    4. The application should perform its functions efficiently and not be slow(Efficient).
-    5. All Android phone users should be able to run our application(accessible).
-    6. The application should run without crashing and should be free of bugs(Reliable).
-    7. A user to should be able to figure out how to use our applicaiton in a short period of time.
-    8. The application should be testable to determine if it accomplishes what it intends.  
+  - The application should be built using Android Studio.
+  - The application should be implemented in Java.
+  - The application should implement a relational database.
+  - The application should perform its functions efficiently and not be slow(Efficient).
+  - All Android phone users should be able to run our application(accessible).
+  - The application should run without crashing and should be free of bugs(Reliable).
+  - A user to should be able to figure out how to use our application in under 5 minutes.  
+  - The application should be testable to determine if it accomplishes what it intends.  
 
 ## Test Suite — 
 This test suite specifies how you will test your system and reports on how the testing went, including: Unit testing of your system modules (at levels 0 and 1) (if required by the instructor) System testing of your system functions (at levels 1 and 2) Usability testing Presentation Materials — This section includes the presentation materials for your two team presentations.
