@@ -33,8 +33,8 @@ Each section should summarizes the key architectural decisions documented in tha
     3. The application should implement a relational database.
     4. The application should perform its functions efficiently and not be slow(Efficient).
     5. All Android phone users should be able to run our application(accessible).
-    6. The application should run withou crashing and should be free of bugs(Reliable).
-    7. A user to should be albe to figure out how to use our applicaiton in a short period of time.
+    6. The application should run without crashing and should be free of bugs(Reliable).
+    7. A user to should be able to figure out how to use our applicaiton in a short period of time.
     8. The application should be testable to determine if it accomplishes what it intends.  
 
 ## Test Suite — 
