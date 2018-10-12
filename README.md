@@ -3,9 +3,9 @@ CS262 Team Application
 
 ## Project Vision —
 
-Team DragonsBreath is a team of charismatic, dynamic, and entrepreneurial undergraduates whose goal is to create an Android based scavenger hunt called Quest. Quest will include features such as QR code verification, leader boards, team creation, open-world exploration, realistic graphics, and full immersion. Team DragonsBreath hopes to create a fun app targeted at Freshman and CS 108 students who are unfamiliar with Calvin's campus.
+Team DragonsBreath hopes to create a fun app targeted at Freshman and CS 108 students who are unfamiliar with Calvin's campus. The end goal is to create an Android based scavenger hunt called Quest. Quest will include features such as leader boards, team creation, open-world exploration, realistic graphics, and full immersion. The goal is to give CS108 students a fun way to bond and learn more about Calvin's campus.
 
-Quest, at its completion, will have a library of images taken from Calvin and a QR code associated with that image. Upon finding a code, the player will use their phone to scan and earn points. These points will be tracked and displayed for all users to see. Users will also be able to link up and make teams to pool their points against other teams.
+Quest, at its completion, will have a library of images taken from around Calvin and a form of verificationa associated with each image. This will most likely take the form of a QR code, gps verification, or something similar. Upon finding a location, the player will use their phone to scan and earn points. These points will be tracked and displayed for all users to see. Users will also be able to link up and make teams to pool their points against other teams.
 
 ## Project Management Records — 
 
