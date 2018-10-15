@@ -26,10 +26,9 @@ Each section should summarizes the key architectural decisions documented in tha
 
 ## Supplemental Specifications — 
   URPS Non Functional Requirements:
-  - The application should be built using Android Studio.
-  - The application should be implemented in Java.
+  - The application should be built using Java-Android-Native.
   - The application should implement a relational database.
-  - The application should perform its functions efficiently and not be slow(Efficient).
+  - The application should perform its functions efficiently should not take longer than a few seconds to perform its     functions(Efficient).
   - All Android phone users should be able to run our application(accessible).
   - The application should run without crashing and should be free of bugs(Reliable).
   - A user to should be able to figure out how to use our application in under 5 minutes.  
