@@ -3,9 +3,9 @@ CS262 Team Application
 
 ## Project Vision —
 
-Team DragonsBreath is a team of charismatic, dynamic, and entrepreneurial undergraduates whose goal is to create an Android based scavenger hunt called Quest. Quest will include features such as QR code verification, leader boards, team creation, open-world exploration, realistic graphics, and full immersion. Team DragonsBreath hopes to create a fun app targeted at Freshman and CS 108 students who are unfamiliar with Calvin's campus.
+Team DragonsBreath hopes to create a fun app targeted at Freshman and CS 108 students who are unfamiliar with Calvin's campus. The end goal is to create an Android based scavenger hunt called Quest. Quest will include features such as leader boards, team creation, open-world exploration, realistic graphics, and full immersion. The goal is to give CS108 students a fun way to bond and learn more about Calvin's campus.
 
-Quest, at its completion, will have a library of images taken from Calvin and a QR code associated with that image. Upon finding a code, the player will use their phone to scan and earn points. These points will be tracked and displayed for all users to see. Users will also be able to link up and make teams to pool their points against other teams.
+Quest, at its completion, will have a library of images taken from around Calvin and a form of verificationa associated with each image. This will most likely take the form of a QR code, gps verification, or something similar. Upon finding a location, the player will use their phone to scan and earn points. These points will be tracked and displayed for all users to see. Users will also be able to link up and make teams to pool their points against other teams.
 
 ## Project Management Records — 
 
@@ -26,14 +26,12 @@ Each section should summarizes the key architectural decisions documented in tha
 
 ## Supplemental Specifications — 
   URPS Non Functional Requirements:
-  - The application should be built using Android Studio.
-  - The application should be implemented in Java.
+  - The application should be built using Java-Android-Native.
   - The application should implement a relational database.
-  - The application should perform its functions efficiently and not be slow(Efficient).
-  - All Android phone users should be able to run our application(accessible).
-  - The application should run without crashing and should be free of bugs(Reliable).
+  - The application should perform its functions efficiently should not take longer than 3 seconds to perform its functions.
+  - All Android phone users should be able to run our application.
+  - The application should run without crashing and should be free of bugs.
   - A user to should be able to figure out how to use our application in under 5 minutes.  
-  - The application should be testable to determine if it accomplishes what it intends.  
 
 ## Test Suite — 
 This test suite specifies how you will test your system and reports on how the testing went, including: Unit testing of your system modules (at levels 0 and 1) (if required by the instructor) System testing of your system functions (at levels 1 and 2) Usability testing Presentation Materials — This section includes the presentation materials for your two team presentations.
