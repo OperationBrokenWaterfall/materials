@@ -28,11 +28,10 @@ Each section should summarizes the key architectural decisions documented in tha
   URPS Non Functional Requirements:
   - The application should be built using Java-Android-Native.
   - The application should implement a relational database.
-  - The application should perform its functions efficiently should not take longer than a few seconds to perform its     functions(Efficient).
-  - All Android phone users should be able to run our application(accessible).
-  - The application should run without crashing and should be free of bugs(Reliable).
+  - The application should perform its functions efficiently should not take longer than 3 seconds to perform its functions.
+  - All Android phone users should be able to run our application.
+  - The application should run without crashing and should be free of bugs.
   - A user to should be able to figure out how to use our application in under 5 minutes.  
-  - The application should be testable to determine if it accomplishes what it intends.  
 
 ## Test Suite — 
 This test suite specifies how you will test your system and reports on how the testing went, including: Unit testing of your system modules (at levels 0 and 1) (if required by the instructor) System testing of your system functions (at levels 1 and 2) Usability testing Presentation Materials — This section includes the presentation materials for your two team presentations.
