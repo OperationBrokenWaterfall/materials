@@ -28,7 +28,7 @@ Each section should summarizes the key architectural decisions documented in tha
   URPS Non Functional Requirements:
   - The application should be built using Java-Android-Native.
   - The application should implement a relational database.
-  - The application should perform its functions efficiently should not take longer than 3 seconds to perform its functions.
+  - The application should perform its functions efficiently and should not take longer than 3 seconds to perform its functions.
   - All Android phone users should be able to run our application.
   - The application should run without crashing and should be free of bugs.
   - A user to should be able to figure out how to use our application in under 5 minutes.  
