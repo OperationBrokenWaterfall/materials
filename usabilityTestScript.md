@@ -1,7 +1,7 @@
 ## Usability Test Script: **Quest Scavenger Hunt Application**
 Fall, 2018
 
-Ryan Holwerda, Ryan Johnson, Jason Klaasen, Alex Cho, Nate Herder
+Ryan Holwerda, Ryan Johnson, Jason Klaassen, Alex Cho, Nate Herder
 
 ### Introduction
 Thank you for agreeing to do this usability test for our application, Quest. Our application is a product of the CS 262 Software Engineering class at Calvin College, and we would like to see first-hand what it’s like for real people to use our application.
@@ -18,7 +18,7 @@ We presume that you’re a CS 108 student who uses technology and your phone oft
   -	Before we begin, do you have any questions for us?
 
 ### The Test
-1. Open Quest - What is your initial reaction to the homepage? Is it clear what you need to input on this page, what what it is for?
+1. Open Quest - What is your initial reaction to the homepage? Is it clear what you need to input on this page?
 2. General Tasks - We'll ask you to do some of the following tasks, depending upon how much time we have together.
     * Find the three main pages of the application. Is the purpose of each page clear?
     * Find the images of the locations within the scavenger hunt. Do you have any idea where these pictures were taken?
