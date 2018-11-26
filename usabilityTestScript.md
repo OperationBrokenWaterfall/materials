@@ -20,11 +20,12 @@ We presume that you’re a CS 108 student who uses technology and your phone oft
 ### The Test
 1. Open Quest - What is your initial reaction to the homepage?
 2. General Tasks - We'll ask you to do some of the following tasks, depending upon how much time we have together.
-    a. Please Login
-    b. Find the three main pages of the application. Is the purpose of each page clear?
-    c. Find the images of the locations within the scavenger hunt. Do you have any idea where these pictures were taken?
-    d. Find your team's current score.
-    e. There are several test hunt locations within this room. Find them and score points for yourself.
+  <ol type="a">
+  <li>Please Login</li>
+  <li>Find the three main pages of the application. Is the purpose of each page clear?</li>
+  <li>Find your team's current score.</li>
+  <li>There are several test hunt locations within this room. Find them and score points for yourself.</li>
+  </ol>
 
 ### Thanks
 Thank you for your willingness to help us test out our application. The Quest application is still in development and not complete yet. Your feedback and thoughts will help us immensely as we move forward. Our end goal is to make our application bug free and more user friendly.
