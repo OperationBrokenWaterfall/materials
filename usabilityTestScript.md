@@ -1,10 +1,10 @@
 ## Usability Test Script: **Quest Scavenger Hunt Application**
 Fall, 2018
 
-Ryan Holwerda, Ryan Johnson, Jason Klaasen, Alex Cho, Nate Herder
+Ryan Holwerda, Ryan Johnson, Jason Klaassen, Alex Cho, Nate Herder
 
 ### Introduction
-Thank you for agreeing to do this usability test for our application, Quest. Our application is a product of the CS 262 Software Engineering class at Calvin College, and we would like to see first-hand what it’s like for real people to use our application.
+Thank you for agreeing to do this usability test for our application, Quest. Our application is a product of the CS 262 Software Engineering class at Calvin College, and we would like to see first-hand what it’s like for real people to use our application.  The purpose of Quest is to make campus scavenger hunts easier to manage.  Each team in the scavenger hunt create a team, with one phone, in the Quest application.  Quest is then used to find the locations on campus, register that you have been there, and keep track of your score throughout the game.
 
 Be reminded, we’re testing our application, not you.  You can’t do anything wrong.  Don’t hold back your thoughts because we value an honest opinion of our application. Don’t worry about hurting our feelings. Understanding our users’ thoughts will only help us in the long run to produce a better product.
 
@@ -18,12 +18,14 @@ We presume that you’re a CS 108 student who uses technology and your phone oft
   -	Before we begin, do you have any questions for us?
 
 ### The Test
-1. Open Quest - What is your initial reaction to the homepage? Is it clear what you need to input on this page, what what it is for?
+1. Open Quest - What is your initial reaction to the homepage?
 2. General Tasks - We'll ask you to do some of the following tasks, depending upon how much time we have together.
-    * Find the three main pages of the application. Is the purpose of each page clear?
-    * Find the images of the locations within the scavenger hunt. Do you have any idea where these pictures were taken?
-    * Find your team's current score.
-    * There are several test hunt locations within this room. Find them and score points for yourself.
+  <ol type="a">
+  <li>Please Login</li>
+  <li>Find the three main pages of the application. Is the purpose of each page clear?</li>
+  <li>Find your team's current score.</li>
+  <li>There are several test hunt locations within this room. Find them and score points for yourself.</li>
+  </ol>
 
 ### Thanks
 Thank you for your willingness to help us test out our application. The Quest application is still in development and not complete yet. Your feedback and thoughts will help us immensely as we move forward. Our end goal is to make our application bug free and more user friendly.
