@@ -18,10 +18,10 @@ Quest, at its completion, will have a library of images taken from around Calvin
 This section provides a variety of views of the system architecture, based on what the Unified Process calls a Software Architecture Document (SAD). This semester, we'll set N=4 by including the following views:
 
 User View (the +1 view)
-Logical View
-Data View
-Interface View
-Deployment View
+[Class Diagram](https://github.com/OperationBrokenWaterfall/materials/blob/master/UMLClassDiagram_QUEST.pdf)
+[Data View]()
+[Interface View](https://github.com/OperationBrokenWaterfall/materials/blob/master/userInterfaceModel.png)
+[Deployment View](https://github.com/OperationBrokenWaterfall/materials/blob/master/QuestDeploymentDiagram.pdf)
 Each section should summarizes the key architectural decisions documented in that view and explain why they were made.
 
 ## Supplemental Specifications — 
@@ -34,7 +34,15 @@ Each section should summarizes the key architectural decisions documented in tha
   - A user to should be able to figure out how to use our application in under 5 minutes.  
 
 ## Test Suite — 
-This test suite specifies how you will test your system and reports on how the testing went, including: Unit testing of your system modules (at levels 0 and 1) (if required by the instructor) System testing of your system functions (at levels 1 and 2) Usability testing Presentation Materials — This section includes the presentation materials for your two team presentations.
+To test our application we have done numerous test ourselves throughout the course of the semester building Quest. As we have also learned, it is not good enough to test your own creations. Through the semester professor Vander Linden and our stakeholder have given us valuable feedback to help make our application more useable. We also conducted discount useaability test with the help of CS 108 students and our stakeholders. In these test we created a [test script](https://github.com/OperationBrokenWaterfall/materials/blob/master/usabilityTestScript.md) to give to the testers. The testers attempted to complete the tasks on the script, and talked out loud about their experience as they attempted to complete the tasks. If something was confuzing or a feature was missing, the testers let us know so that we could take note. If you would like to read a more comprehensive synopsis of what was found as a result of our user testing, so can read our final report [here](https://drive.google.com/open?id=1yDZVf3ELmPOaENYAyqaQt9waUNf_KM9OWlXKwVivjFI).
 
+## Presentation Materials — 
+Our mid semester presentation can be found [here](https://docs.google.com/presentation/d/11fYBFvjEuhbbEuMiUtMRfDSJc5SH0efVrAGBvaLel2Y/edit?usp=sharing)
+Our final semester presentation can be viewed [here](https://docs.google.com/presentation/d/1KqmoeAQCpO6DbfLgra5Xnhl36eC6yF5EV5bOEuTZpsI/edit?usp=sharing)
 ## The System — 
-This section should allow a user to get a copy of your system (or system prototype), including on-line documentation, and install it in their own environment.
+If you would like to run the Quest application on your Android phone, follow these simple steps:
+1. First, install Android studio onto your computer for your specific system from [Here](https://developer.android.com/studio/gclid=Cj0KCQiAgMPgBRDDARIsAOh3uyIZQ042orRuSLQAxshK8L5OBVkSSbhUJVLc6CUVbcoB4Hx7G879gQsaAm-8EALw_wcB) 
+2. Next, copy our repository url from [GitHub](https://github.com/OperationBrokenWaterfall/Quest.git)
+3. Make sure that you have [GIT](https://git-scm.com/downloads) version control downloaded on your system.
+4. Open your terminal in the directory where you want to store the application and type: git clone https://git-scm.com/downloads
+5. After completing step 4 you will see your clone of the Quest application code. Open this project from within Android Studio. You can now run Quest on your device!
