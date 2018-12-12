@@ -21,6 +21,8 @@ Quest, at its completion, will have a library of images taken from around Calvin
 [Interface View](https://github.com/OperationBrokenWaterfall/materials/blob/master/userInterfaceModel.png)
 [Deployment View](https://github.com/OperationBrokenWaterfall/materials/blob/master/QuestDeploymentDiagram.pdf)
 
+These are the diagrams that display how our application is structured. These diagrams have remained very similar since the beginning of the semester, but have been sleightly modified throughout the coarse of the semester to simplify the design of our application.
+
 ## Supplemental Specifications — 
   URPS Non Functional Requirements:
   - The application should be built using Java-Android-Native.
