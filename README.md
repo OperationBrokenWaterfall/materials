@@ -19,7 +19,8 @@ This section provides a variety of views of the system architecture, based on wh
 
 User View (the +1 view)
 [Class Diagram](https://github.com/OperationBrokenWaterfall/materials/blob/master/UMLClassDiagram_QUEST.pdf)
-[Data View]()
+[Database Schema](https://github.com/OperationBrokenWaterfall/server/blob/master/Database/QuestSampleQueries.sql)
+[Database Queries](https://github.com/OperationBrokenWaterfall/server/blob/master/Database/QuestSampleQueries.sql)
 [Interface View](https://github.com/OperationBrokenWaterfall/materials/blob/master/userInterfaceModel.png)
 [Deployment View](https://github.com/OperationBrokenWaterfall/materials/blob/master/QuestDeploymentDiagram.pdf)
 Each section should summarizes the key architectural decisions documented in that view and explain why they were made.
