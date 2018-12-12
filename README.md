@@ -15,15 +15,11 @@ Quest, at its completion, will have a library of images taken from around Calvin
  - Trello: https://trello.com/b/MfrAjiAv/cs262b-operation-broken-waterfall
 
 ## N+1 Architectural Views — 
-This section provides a variety of views of the system architecture, based on what the Unified Process calls a Software Architecture Document (SAD). This semester, we'll set N=4 by including the following views:
-
-User View (the +1 view)
 [Class Diagram](https://github.com/OperationBrokenWaterfall/materials/blob/master/UMLClassDiagram_QUEST.pdf)
 [Database Schema](https://github.com/OperationBrokenWaterfall/server/blob/master/Database/QuestSampleQueries.sql)
 [Database Queries](https://github.com/OperationBrokenWaterfall/server/blob/master/Database/QuestSampleQueries.sql)
 [Interface View](https://github.com/OperationBrokenWaterfall/materials/blob/master/userInterfaceModel.png)
 [Deployment View](https://github.com/OperationBrokenWaterfall/materials/blob/master/QuestDeploymentDiagram.pdf)
-Each section should summarizes the key architectural decisions documented in that view and explain why they were made.
 
 ## Supplemental Specifications — 
   URPS Non Functional Requirements:
